@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "McAfee Add-On Modules": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
