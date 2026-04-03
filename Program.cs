@@ -1,6 +1,6 @@
 ﻿namespace McAfee_Add_On_Modules
 {
-    internal class Program  Xgraph_Program
+    internal class Program  Cluster_Program
     {
         static void Main(string[] args)
         {
